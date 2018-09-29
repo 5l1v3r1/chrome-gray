@@ -6,3 +6,5 @@ Original: https://github.com/B0RU70/chrome-gray
 
 
 ## License
+
+This project is licensed under the [The Unlicense]
