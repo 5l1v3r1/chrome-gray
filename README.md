@@ -4,6 +4,7 @@ Original: https://github.com/B0RU70/chrome-gray
 
 ## Screenshots
 
+![chrome gray theme](screenshot.png)
 
 ## License
 
